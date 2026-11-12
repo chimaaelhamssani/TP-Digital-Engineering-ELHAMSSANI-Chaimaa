@@ -48,3 +48,4 @@ Permet de consulter l'historique des commits sous forme graphique et de visualis
 
 ## Conclusion
 
+Ce travail m'a permis de mettre en pratique les principales commandes Git, de comprendre la gestion des branches, de collaborer avec GitHub à travers les Pull Requests et de résoudre les conflits lors des opérations de fusion.
